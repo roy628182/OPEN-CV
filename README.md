@@ -1,9 +1,6 @@
 # OPEN-CV
 A collection of OpenCV projects, tutorials, and examples
-
-# **OpenCV Projects and Tutorials**  
-
-Welcome to the **OpenCV Projects and Tutorials** repository! This collection is designed to help you explore the exciting world of computer vision using OpenCV. From basic image processing techniques to advanced real-time applications, this repository serves as a guide for learners and enthusiasts.
+                Welcome to the **OpenCV Projects and Tutorials** repository! This collection is designed to help you explore the exciting world of computer vision using OpenCV. From basic image processing techniques to advanced real-time applications, this repository serves as a guide for learners and enthusiasts.
 
 ## **Overview**  
  
